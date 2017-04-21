@@ -1,0 +1,46 @@
+#holder article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    height: 20%;
+    background: blue;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 15px;
+    color: white;
+/*    border: 2px outset black;*/
+}
+
+#holder img {
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#holder p {
+    background: white;
+    color: black;
+}
+
+.dotted {
+    border: 3px dotted black;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.light-blue {
+    background: lightblue;
+}
+
+
+
+
+
+
+
+
+
